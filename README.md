@@ -40,24 +40,38 @@ Junior Java Developer at 24/7.ai (Jan 2021 - Apr 2022)
 Built scalable APIs and frontend components using Spring Boot, Spring Cloud, Node.js, and Angular.
 Deployed applications on AWS, Azure, and GCP.
 
-🛠️ Skills
+🛠️ Skills:
+
 Programming Languages: Java 17/11/8, Python, JavaScript, TypeScript
+
 Frameworks: Spring Boot, Spring Cloud, Spring Security, Hibernate, JPA
+
 Microservices & APIs: REST, JSON, Swagger/OpenAPI, WebFlux
+
 Frontend: Angular, React, HTML5, CSS3, Bootstrap, RxJS
+
 Databases: MySQL, PostgreSQL, MongoDB, Cassandra, Oracle DB
+
 Cloud Platforms: AWS (EC2, S3, Lambda, ECS), Azure (App Services, Blob Storage), GCP (Compute Engine, GKE)
+
 Containerization/CI/CD: Docker, Kubernetes, Jenkins, GitLab CI, GitHub Actions
+
 Messaging: Kafka, RabbitMQ, ActiveMQ
+
 Testing Tools: JUnit, Mockito, TestNG, Postman, Selenium, Log4j
+
 Version Control: Git, GitHub, GitLab, Bitbucket
+
 Methodologies: Agile (Scrum), TDD, BDD, SDLC
 
-📚 Education
+
+📚 Education📚
+
 Master of Science in Computer and Information Systems (Aug 2023 - Dec 2024)
 Northwest Missouri State University, Maryville, MO
 
 🎯 Notable Projects
+
 Cloud-Based Inventory Management System
 Developed using Java 17, Spring Boot, AWS Lambda, React, MySQL, and Docker.
 Focused on scalable microservices architecture with CI/CD and monitoring.
@@ -66,5 +80,6 @@ Built with Java, WebFlux, Kafka, MongoDB, and Angular.
 Achieved low response times for concurrent users.
 
 🌐 Explore My Work
+
 Check out my pinned repositories for projects like the Cloud-Based Inventory System and Real-Time Messaging Platform.
 Feel free to explore my other repositories for more examples of my work.
