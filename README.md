@@ -23,14 +23,19 @@ GitHub: Saikiranp194
 ⚡ Fun fact: I’m passionate about delivering high-quality code through Test-Driven Development (TDD) and Agile methodologies, and I love mentoring junior developers to help them grow.
 
 🚀 Professional Background
+
 Current Role: Java Developer at BairesDev (June 2024 - Present)
 Focus on cloud-native backend systems using Java 17, Spring Boot, and RESTful APIs.
 Utilize Docker, Kubernetes, Apache Kafka, RabbitMQ, Jenkins, and Terraform for scalability and CI/CD.
 Implement security measures like OAuth2 and Spring Security for enterprise applications.
+
 Previous Roles:
+
 Java Full Stack Developer at Wipro (May 2022 - Aug 2023)
 Developed full -stack enterprise applications using Java 11, Spring Boot, and Angular.
 Worked with MySQL, MongoDB, and Oracle DB, and implemented CI/CD pipelines.
+
+
 Junior Java Developer at 24/7.ai (Jan 2021 - Apr 2022)
 Built scalable APIs and frontend components using Spring Boot, Spring Cloud, Node.js, and Angular.
 Deployed applications on AWS, Azure, and GCP.
