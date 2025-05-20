@@ -1,8 +1,5 @@
 
-👋 Hi, I’m Sai Kiran Paka, A Java Developer
-
-Location: Kansas City, MO
-Experience: 4+ years in designing, developing, and deploying scalable web applications and backend systems.
+👋 Hi, I’m Sai Kiran Paka, A Java Developer, Located at  Kansas City. with overall 4+ years of experience in designing, developing, and deploying scalable web applications and backend systems.
 
 👀 I’m interested in...
 Building scalable, real-time applications using Java, Spring Boot, and cloud technologies.
